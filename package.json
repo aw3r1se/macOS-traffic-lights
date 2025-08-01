@@ -1,6 +1,6 @@
 {
   "name": "macos-traffic-lights",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "MacOS traffic lights in svg format",
   "main": "./index.js",
   "files": ["index.js", "svg/**"],
