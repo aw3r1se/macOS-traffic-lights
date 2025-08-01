@@ -1,5 +1,5 @@
 {
-  "name": "@aw3r1se/macos-traffic-lights",
+  "name": "macos-traffic-lights",
   "version": "0.0.1",
   "description": "MacOS traffic lights in svg format",
   "main": "./index.js",
