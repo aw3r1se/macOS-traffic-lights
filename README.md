@@ -10,7 +10,7 @@ npm i macos-traffic-lights
 
 ## ✏️ Usage
 
-```
+```js
 import * as icons from 'macos-traffic-lights';
 ```
 
