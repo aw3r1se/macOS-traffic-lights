@@ -1,6 +1,6 @@
 {
   "name": "macos-traffic-lights",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MacOS traffic lights in svg format",
   "main": "./index.js",
   "files": ["index.js", "svg/**"],
@@ -10,14 +10,13 @@
     "url": "git+https://github.com/aw3r1se/macOS-traffic-lights.git"
   },
   "keywords": [
-    "MacOS",
-    "Traffic lights",
+    "macOS",
+    "traffic lights",
     "svg"
   ],
   "author": "aw3r1se",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/aw3r1se/macOS-traffic-lights/issues"
-  },
-  "homepage": "https://aw3r1se.github.io/macOS-traffic-lights"
+  }
 }
