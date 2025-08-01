@@ -2,8 +2,8 @@
   "name": "macos-traffic-lights",
   "version": "1.0.1",
   "description": "MacOS traffic lights in svg format",
-  "main": "./index.js",
-  "files": ["index.js", "svg/**"],
+  "main": "./src/index.js",
+  "files": ["./src/index.js", "svg/**"],
   "sideEffects": false,
   "repository": {
     "type": "git",
