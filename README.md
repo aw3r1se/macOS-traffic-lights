@@ -11,7 +11,7 @@ npm i macos-traffic-lights
 ## ✏️ Usage
 
 ```
-@import 'macos-cursors/style.css';
+import * as icons from 'macos-traffic-lights';
 ```
 
 <table>
