@@ -1,0 +1,8 @@
+{
+  "name": "@aw3r1se/macos-traffic-lights",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "./index.js",
+  "files": ["index.js", "svg/**"],
+  "sideEffects": false
+}
