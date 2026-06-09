@@ -24,3 +24,28 @@ export {
     maximizeHover,
     maximizeActive,
 };
+
+/**
+ * All traffic lights grouped by button and state, for convenient access:
+ * `trafficLights.close.hover`, `trafficLights.unfocused`, etc.
+ */
+export const trafficLights = {
+    unfocused,
+    close: {
+        default: closeDefault,
+        hover: closeHover,
+        active: closeActive,
+    },
+    minimize: {
+        default: minimizeDefault,
+        hover: minimizeHover,
+        active: minimizeActive,
+    },
+    maximize: {
+        default: maximizeDefault,
+        hover: maximizeHover,
+        active: maximizeActive,
+    },
+};
+
+export default trafficLights;
